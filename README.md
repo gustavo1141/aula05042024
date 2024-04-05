@@ -15,3 +15,9 @@ Com base na descrição fornecida, os objetivos para resolver o problema da falt
 8. Avaliar continuamente as necessidades e desafios enfrentados pelas mulheres e adaptar os recursos e serviços oferecidos para atender a essas necessidades de maneira eficaz e relevante.
 
 Esses são apenas alguns exemplos de objetivos que podem ser relevantes para resolver o problema da falta de acesso a informações e recursos que promovam a segurança, bem-estar e empoderamento das mulheres. Os objetivos específicos podem variar com base nas necessidades e contextos locais
+
+**stack holders**
+1. Mulheres
+2. Agencias Governamentais
+3. Profissionais de saúde
+4.  Profissionais de Assistencia Social
